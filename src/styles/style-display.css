@@ -1,0 +1,17 @@
+.display{
+    flex: 1;
+    height: 83px;
+    background-color: #0a0a23;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 2px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 0 20px;
+    box-shadow: -1px 4px 1px 1px white;
+}
