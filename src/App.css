@@ -1,7 +1,9 @@
 .App{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 25px;
 }
 
 .App__calculator-container{
@@ -22,4 +24,10 @@
   display: flex;
   justify-content: center;
   gap: 15px;
+}
+
+.App__author{
+  color: #fff;
+  font-size: 35px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

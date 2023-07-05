@@ -59,6 +59,7 @@ function App() {
             clear={clearDisplay} />
         </div>
       </div>
+      <div className='App__author'>By: Fernando Carrasco</div>
     </div>
   );
 }
